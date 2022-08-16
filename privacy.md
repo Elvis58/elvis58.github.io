@@ -1,6 +1,6 @@
 ## AlameLabs Global Inc. Privacy Policy
-    This Privacy Policy describes how AlameLabs (referred to in this Privacy Policy as "App," "Company," "Service," "We," "Us," or "Our,") collects information when you use the App (separately and collectively as the "Service"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information.
-    By accessing, visiting or using the Service, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy. Please note that if you disagree with anything in this Privacy Policy, you must not use the Service.
+This Privacy Policy describes how AlameLabs (referred to in this Privacy Policy as "App," "Company," "Service," "We," "Us," or "Our,") collects information when you use the App (separately and collectively as the "Service"). It also explains how we use and disclose the information we collect from you, and your rights in relation to that information.
+By accessing, visiting or using the Service, you expressly consent to our collection, storage, use and disclosure of your information as described in this Privacy Policy. Please note that if you disagree with anything in this Privacy Policy, you must not use the Service.
 
 Information Collected through the Service.
 1. Information You Directly and Voluntarily Provide to Us.
@@ -12,7 +12,7 @@ Information Collected through the Service.
 7. You may be able to limit the amount of information collected from your device (computer, phone, or tablet) with us by adjusting your mobile device’s settings.
 
 How We Use the Information We Collect.
-    We use the information we gather through the Service to help us better understand how the Service and our products and services are being used. By identifying patterns and trends in usage, we are able to better design the Service and our products and services to improve your experience. We may also use this information for commercial and marketing purposes, as described below.
+We use the information we gather through the Service to help us better understand how the Service and our products and services are being used. By identifying patterns and trends in usage, we are able to better design the Service and our products and services to improve your experience. We may also use this information for commercial and marketing purposes, as described below.
 1. How We Share Your Information with Third Parties.
 We also share user information with third parties in some other circumstances as follows:
 1.1 Employees, Third-Party Processors and Third-Party Service Providers.
@@ -36,14 +36,14 @@ We also share user information with third parties in some other circumstances as
     If you opt in to receive marketing communications from third parties, we may, from time to time, share the information you provide to us with selected third party marketing partners that we believe offer products or services that may be of interest to you. If you would like us to stop providing your information to our third party marketing partners, you may opt out by contacting us as provided in the "How to Contact Us" section
 
 Children Under Age 13.
-    The Service is not intended for children under age 13, or for anyone under age 18 or the applicable age of majority without involvement of a parent or guardian. We do not knowingly collect or distribute personal information from or about children under the age of 13.
+The Service is not intended for children under age 13, or for anyone under age 18 or the applicable age of majority without involvement of a parent or guardian. We do not knowingly collect or distribute personal information from or about children under the age of 13.
 
 Amendments to this Privacy Policy.
-    We will notify users of changes to this Privacy Policy by posting the amended terms on the Service in advance of the effective date of the changes. If you do not agree to the changes, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
+We will notify users of changes to this Privacy Policy by posting the amended terms on the Service in advance of the effective date of the changes. If you do not agree to the changes, you should discontinue your use of the Service prior to the time the modified privacy policy takes effect. If you continue using the Service after the modified privacy policy takes effect, you will be bound by the modified privacy policy.
 
 Use of Information Outside Your Country of Residence.
-    If you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers or databases located outside of the country or jurisdiction where you are located. Your use of the Service represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use the Service.
+If you choose to use the Service or provide your information to us, your information may be transferred to, processed and maintained on servers or databases located outside of the country or jurisdiction where you are located. Your use of the Service represents your consent and agreement to these practices. If you do not want your information transferred to or processed or maintained outside of the country or jurisdiction where you are located, you should not use the Service.
 
 How to Contact Us.
-    If you have any questions about this Privacy Policy, please feel free to contact us as follows:
-    By email: support@alamelabs.com
+If you have any questions about this Privacy Policy, please feel free to contact us as follows:
+By email: support@alamelabs.com
